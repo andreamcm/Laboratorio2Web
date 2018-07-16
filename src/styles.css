@@ -1,0 +1,139 @@
+/* Universidad del Valle de Guatemala
+// Autora: Andrea Maria Cordon Mayen
+// Carne: 16076
+// Fecha: 16/07/2018
+// client.js */
+
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    margin-top: 0;
+  }
+
+  .title {
+      margin-top: 1rem;
+      margin-bottom: 0px;
+      vertical-align: middle;
+      text-align: center;
+      font-family: Comfortaa;
+      font-size: 4rem;
+  }
+
+  .xImage {
+      margin: 1px, 1px, 1px, 1px;
+  }
+
+  .matrix1a {
+      background: red;
+      display: inline-block;
+      margin-left: 38rem;
+      margin-top: 1rem;
+      padding: 4rem;
+      width: 6rem;
+      height: 6rem;
+  }
+
+  .matrix1b {
+    background: red;
+    display: inline-block;
+    margin-left: 1rem;
+    margin-top: 2rem;
+    padding: 4rem;
+    width: 6rem;
+    height: 6rem;
+  }
+
+  .matrix1c {
+    background: red;
+    display: inline-block;
+    margin-left: 1rem;
+    margin-top: 4rem;
+    padding: 4rem;
+    width: 6rem;
+    height: 6rem;
+  }
+
+  .matrix2a {
+    background: red;
+    display: inline-block;
+    margin-left: 38rem;
+    margin-top: 1rem;
+    padding: 4rem;
+    width: 6rem;
+    height: 6rem;
+}
+
+.matrix2b {
+  background: red;
+  display: inline-block;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  padding: 4rem;
+  width: 6rem;
+  height: 6rem;
+}
+
+.matrix2c {
+  background: red;
+  display: inline-block;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  padding: 4rem;
+  width: 6rem;
+  height: 6rem;
+}
+
+.matrix3a {
+    background: red;
+    display: inline-block;
+    margin-left: 38rem;
+    margin-top: 1rem;
+    padding: 4rem;
+    width: 6rem;
+    height: 6rem;
+}
+
+.matrix3b {
+  background: red;
+  display: inline-block;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  padding: 4rem;
+  width: 6rem;
+  height: 6rem;
+}
+
+.matrix3c {
+  background: red;
+  display: inline-block;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  padding: 4rem;
+  width: 6rem;
+  height: 6rem;
+}
+
+.turnText {
+    margin-top: 1rem;
+    margin-bottom: 0;
+    vertical-align: middle;
+    text-align: center;
+    font-family: Comfortaa;
+    font-size: 2rem;
+}
+
+.restartBtn {
+    background: cadetblue;
+    border-radius: 2rem;
+    width: 25rem;
+    height: 5rem;
+    text-align: center;
+    font-family: Comfortaa;
+    font-size: 3rem;
+}
+
